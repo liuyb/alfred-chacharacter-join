@@ -5,7 +5,7 @@ Join Characters In Clipboard by Comma for Alfred4
 
 # How to install 
 
-[Downlaod]: 	"https://github.com/liuyb/alfred-character-join/releases"
+[Downlaod]: https://github.com/liuyb/alfred-character-join/releases
 
 Double click to import this workflow.
 
