@@ -18,3 +18,6 @@ Double click to import this workflow.
 
 
 
+![screenshot](https://raw.githubusercontent.com/liuyb/alfred-character-join/master/screenshot.gif)
+
+
